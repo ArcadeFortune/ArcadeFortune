@@ -37,7 +37,11 @@ I am trying to learn Electron.js, so I can use JavaScript even for applications 
 - E-Mail: alessionights@gmail.com
 - Discord: arcadefortune
 - League of Legends (EUW): Zest Maximus SC2
+<div>You visited me <span id="tes">0</span> times!</div>
 
+<script>
+    document.getElementById('tes').innerHTML = 12;
+</script>
 <!--
 **ArcadeFortune/ArcadeFortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
