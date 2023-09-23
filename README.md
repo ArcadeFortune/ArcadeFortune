@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am Alessio Lama, a self-proclaimed frontend programmer. I enjoy creating games with JavaScript or making discord bots (with JavaScript). I enjoy working with MongoDB, because it's JavaScript.
 I am trying to learn Electron.js, so I can use JavaScript even for applications () => {👍}
+  <img src="http://34.38.51.8/viewcount" alt="viewcount" loading="eager" style="display: flex; justify-content: center;"/> 
+  <br/>
+  <img src="http://34.38.51.8/totalviewcount" alt="totalviewcount" loading="eager" style="display: flex; justify-content: center;"/> 
 #### My favorite programming languages
 1. JavaScript
 2. React.js
@@ -37,11 +40,7 @@ I am trying to learn Electron.js, so I can use JavaScript even for applications 
 - E-Mail: alessionights@gmail.com
 - Discord: arcadefortune
 - League of Legends (EUW): Zest Maximus SC2
-<div>You visited me <span id="tes">0</span> times!</div>
 
-<script>
-    document.getElementById('tes').innerHTML = 12;
-</script>
 <!--
 **ArcadeFortune/ArcadeFortune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
