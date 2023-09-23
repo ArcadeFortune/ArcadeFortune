@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Alessio Lama, a self-proclaimed frontend programmer. I enjoy creating games with JavaScript or making discord bots (with JavaScript). I enjoy working with MongoDB, because it's JavaScript.
 I am trying to learn Electron.js, so I can use JavaScript even for applications () => {👍}
+  <br/>
+  <br/>
   <img src="http://34.38.51.8/viewcount" alt="viewcount" loading="eager" style="display: flex; justify-content: center;"/> 
   <br/>
   <img src="http://34.38.51.8/totalviewcount" alt="totalviewcount" loading="eager" style="display: flex; justify-content: center;"/> 
