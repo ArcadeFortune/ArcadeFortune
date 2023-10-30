@@ -25,9 +25,10 @@ I am trying to learn Electron.js, so I can use JavaScript even for applications 
 
 #### My favorite games
 1. League of Legends (4k+ hours)
-2. Minecraft
-3. Splatoon
-4. Super Mario (almost every game)
+2. Apex Legends
+3. Minecraft
+4. Splatoon
+5. Super Mario (almost every game)
 
 
 #### My Strenghts
